@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Impl\Calculator.cs" />
     <Compile Include="Interfaces\ICalculator.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
