@@ -1,0 +1,10 @@
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\Calculator.Tests.dll.config
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\SpecFlowDemo.exe
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\TechTalk.SpecFlow.dll
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\bin\Debug\SpecFlowDemo.pdb
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

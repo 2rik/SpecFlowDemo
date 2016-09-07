@@ -1,0 +1,8 @@
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.exe.config
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.exe
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\SpecFlowDemo\bin\Debug\SpecFlowDemo.pdb
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\SpecFlowDemo\obj\Debug\SpecFlowDemo.exe
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\SpecFlowDemo\obj\Debug\SpecFlowDemo.pdb
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator\obj\Debug\SpecFlowDemo.exe
+D:\Work\Nice\Presentations\SpecFlow\solution\SpecFlowDemo\Calculator\obj\Debug\SpecFlowDemo.pdb
