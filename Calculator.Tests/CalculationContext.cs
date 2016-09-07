@@ -1,6 +1,6 @@
-﻿using System;
+﻿using SpecFlowDemo.Interfaces;
+using System;
 using System.Collections.Generic;
-using SpecFlowDemo.Interfaces;
 
 namespace Calculator.Tests
 {

@@ -29,7 +29,7 @@ namespace Calculator.Tests.Steps
                 case "plus":
                     Context.Result = Context.Calculator.Sum(Context.Values.ToArray());
                     break;
-                default: throw new Exception($"Action \"{action}\" is not implemented");
+                default: throw new Exception(String.Format("Action \"{0}\" is not implemented", action));
             }
         }
         

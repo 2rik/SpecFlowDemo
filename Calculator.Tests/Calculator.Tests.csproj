@@ -71,6 +71,12 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calculator\Calculator.csproj">
+      <Project>{1E30E35D-CFD4-452E-AB65-A10AF4F188E6}</Project>
+      <Name>Calculator</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
