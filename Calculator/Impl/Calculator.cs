@@ -19,7 +19,6 @@ namespace SpecFlowDemo.Impl
 
         public decimal Minus(decimal a, decimal b)
         {
-            return a - b;
             throw new NotImplementedException();
         }
 
