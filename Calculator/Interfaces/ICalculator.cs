@@ -2,14 +2,12 @@
 {
     public interface ICalculator
     {
-        double Sum(params double[] values);
+        decimal Sum(params decimal[] values);
 
-        double Minus(double a, double b);
+        decimal Minus(decimal a, decimal b);
 
-        double Sin(double a);
+        decimal Multiply(decimal a, decimal b);
 
-        double Multiply(params double[] values);
-
-        double Divide(double a, double b);
+        decimal Divide(decimal a, decimal b);
     }
 }

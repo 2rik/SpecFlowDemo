@@ -15,7 +15,7 @@ namespace Calculator.Tests.Steps
         }
 
         [Given(@"I have entered (.*) into the calculator")]
-        public void GivenIHaveEnteredIntoTheCalculator(double value)
+        public void GivenIHaveEnteredIntoTheCalculator(decimal value)
         {
             Context.Values.Add(value);
         }
@@ -34,7 +34,7 @@ namespace Calculator.Tests.Steps
         }
         
         [Then(@"the result should be (.*) on the screen")]
-        public void ThenTheResultShouldBeOnTheScreen(double expected)
+        public void ThenTheResultShouldBeOnTheScreen(decimal expected)
         {
             Assert.AreEqual(expected, Context.Result);
         }

@@ -6,15 +6,15 @@ namespace Calculator.Tests
 {
     public class CalculationContext
     {
-        private readonly List<double> _values = new List<double>();
+        private readonly List<decimal> _values = new List<decimal>();
 
         public ICalculator Calculator { get; private set; }
 
-        public double Result { get; set; }
+        public decimal Result { get; set; }
 
         public Exception Exception { get; set; }
 
-        public List<double> Values
+        public List<decimal> Values
         {
             get { return _values; }
         }

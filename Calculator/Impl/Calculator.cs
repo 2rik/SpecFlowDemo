@@ -1,32 +1,29 @@
 ﻿using System;
 using System.Linq;
+using System.Windows.Markup;
 using SpecFlowDemo.Interfaces;
 
 namespace SpecFlowDemo.Impl
 {
     public class Calculator : ICalculator
     {
-        public double Sum(params double[] values)
+        public decimal Sum(params decimal[] values)
         {
             return values.Sum();
         }
 
-        public double Divide(double a, double b)
+        public decimal Divide(decimal a, decimal b)
         {
             throw new NotImplementedException();
         }
 
-        public double Minus(double a, double b)
+        public decimal Minus(decimal a, decimal b)
         {
+            return a - b;
             throw new NotImplementedException();
         }
 
-        public double Multiply(params double[] values)
-        {
-            throw new NotImplementedException();
-        }
-
-        public double Sin(double a)
+        public decimal Multiply(decimal a, decimal b)
         {
             throw new NotImplementedException();
         }
